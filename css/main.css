@@ -1,4 +1,9 @@
 /* =================================================================== 
+ *  Imminent Main Stylesheet
+ *  Template Ver. 1.0.0
+ *  09-19-2019
+ *  ------------------------------------------------------------------
+ *
  *  TOC:
  *  # base style overrides
  *    ## links 
@@ -1474,7 +1479,7 @@ input::-moz-focus-inner {
 
 .header-logo img {
   width: 140px;
-  /*height: 23px;*/
+  height: 23px;
 }
 
 
@@ -1549,7 +1554,7 @@ input::-moz-focus-inner {
 
   .header-logo img {
     width: 125px;
-    /*height: 20px;*/
+    height: 20px;
   }
 
 }
@@ -1557,7 +1562,7 @@ input::-moz-focus-inner {
 @media screen and (max-width:600px) {
   .header-logo img {
     width: 120px;
-    /*height: 19px;*/
+    height: 19px;
   }
 
 }
